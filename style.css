@@ -1,0 +1,173 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.navbar-nav
+{
+    margin-left: 48%;
+
+}
+.first-text
+{
+    font-size: 25px;
+}
+
+.btn1
+{
+    height: 80px;
+    width: 1%;
+    margin-left: -15px;
+    border-left: 3px solid blue;
+    position: absolute;
+    display: none;
+}
+
+.card
+{
+    height: 300px;
+    width: 100%; 
+}
+.card i
+{
+  text-align: center;
+  font-size: 40px; 
+  
+}
+.card p
+{
+    text-align: center;
+    margin-top: 10%;
+
+}
+.sec6-tital h1 {
+  text-align: center;
+  font-size: 32px;
+  font-weight: 400;
+  color: #627680;
+}
+
+.sec6-tital p {
+  text-align: center;
+  color: #444444;
+  font-size: 16px;
+}
+
+.box6 {
+  height: 360px;
+}
+
+.sub-box6 {
+  height: 212px;
+  background-color: #f4f6f7;
+  border-radius: 5px;
+  color: #444444;
+}
+
+.sub-box6 p {
+  font-size: 15px;
+  text-align: justify;
+}
+
+.sub-box6 i {
+  font-size: 25px;
+  color: #d8dee1;
+}
+
+.box6-content {
+  margin-top: -11%;
+  padding: 0px 30px;
+  text-align: left;
+}
+
+.box6-content h4 {
+  font-size: 17px;
+  color: #111111;
+}
+
+.box6-content h5 {
+  font-size: 15px;
+  color: #999999;
+}
+
+.box1
+{
+  height:90px;
+  width: 21%;
+  background-color:lightgray;
+  margin-top: -5%; 
+  position: absolute;
+}
+.ico
+{
+  display: none ;
+  background-color: lightgray;
+  padding-bottom: 2%;
+  font-size: 18px;
+}
+.img:hover .ico
+{
+  display: block;
+}
+.myob img
+{
+  filter: grayscale(100);
+  transition: all 0.5s ease-in-out;
+}
+.myob img:hover
+{
+    filter: grayscale(0);
+}
+.location i
+{
+  margin-right: 5%;
+  border-radius: 50%;
+  padding:2px 5px 2px 5px;
+  border: 1px solid #F2F4F5;
+  color: #009CEA;
+  background-color: #F2F4F5;
+}
+.location i:hover
+{
+  background-color: #009CEA;
+  color: white;
+}
+.mail i
+{
+  margin-right: 5%;
+  border-radius: 50%;
+  padding:2px 8px 2px 8px;
+  border: 1px solid #F2F4F5;
+  color: #009CEA;
+  background-color: #F2F4F5;
+}
+.mail i:hover
+{
+  background-color: #009CEA;
+  color: white;
+}
+.call i
+{
+  margin-right: 5%;
+  border-radius: 50%;
+  padding:2px 5px 2px 5px;
+  border: 1px solid #F2F4F5;
+  color: #009CEA;
+  background-color: #F2F4F5;
+}
+.call i:hover
+{
+  background-color: #009CEA;
+  color: white;
+}
+.name input
+{
+  border: 2px solid lightgray;
+}
+.name input:hover
+{
+  border: 2px solid #009CEA;
+}
+
